@@ -7,7 +7,7 @@ public class MainApp {
 
         Person persons[] = {
             new Student("osama", "SE", 88.9)
-            ,new Employee("Ahmed", "SD", 1000.5)
+            ,new Employee("Osama22", "SD", 1000.5)
         };
         show(persons);
     }
